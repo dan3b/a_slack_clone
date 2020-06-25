@@ -1,0 +1,29 @@
+.message{
+	display: flex;
+	align-items: center
+}
+.right{
+	flex-direction: row-reverse;;
+}
+.left{
+	justify-content: flex-start;
+}
+.face{
+	width: 50px;
+	height: 50px;
+	background: rgb(100,100,100);
+	color: white;
+	border-radius: 50%;
+	margin: 20px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.text{
+	font-weight: 600;
+}
+.time{
+	color: rgb(180,180,180);
+	font-size: 12px;
+}

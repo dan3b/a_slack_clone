@@ -7,4 +7,8 @@ A Slack clone (chat-room front-end) as a Code Nation project to develop skills w
 ## Team Members
 Github: danaffen, lmirza6, acoop230794
 
+<<<<<<< HEAD
 # Hello1
+=======
+## Hello
+>>>>>>> 9993ad8cb5bdcdec1176da7ee23f3510660342ca

@@ -1,0 +1,26 @@
+.messageArea{
+	border-radius: 5px;
+	margin: 10px;
+	padding: 20px;
+	border: 1px solid rgb(60,60,60);
+}
+.messageInput{
+	display: flex;
+}
+.sendBtn{
+	border-radius: 5px;
+	margin: 10px 10px 10px 1px;
+	padding: 20px 10px;
+	border: 1px solid rgb(60,60,60);
+	width: 80px;
+}
+.msgInput{
+	border-radius: 5px;
+	margin: 10px 1px 10px 10px;
+	padding: 20px 10px;
+	border: 1px solid rgb(60,60,60);
+	font-style: italic;
+	font-size: 20px;
+	color: rgb(100,100,100);
+	font-weight: bold;
+}
