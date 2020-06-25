@@ -32,3 +32,4 @@ export default class Slack extends React.Component{
 	}
 }
 
+export default Slack;
