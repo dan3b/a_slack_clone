@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Slack from './Slack.js'
+import Slack from './components/Slack.js'
 
 ReactDOM.render(
   <React.StrictMode>
